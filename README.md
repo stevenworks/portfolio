@@ -4,9 +4,8 @@ Hey! I'm Steven, a self-taught software developer with a passion for building fa
 ## 🚀 Tech Stack 
 
 - **Frontend:**
-  - **React** (for building interactive UIs)
-  - **JSX** (for rendering HTML in React)
-  - **TailwindCSS** (for utility-first CSS styling)
+  - **HTML**
+  - **CSS** (for utility-first CSS styling)
   - **JavaScript (ES6+)** (for dynamic, interactive elements)
 
 - **Hosting & Deployment:**
