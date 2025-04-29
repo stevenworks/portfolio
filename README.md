@@ -5,7 +5,7 @@ Hey! I'm Steven, a self-taught software developer with a passion for building fa
 
 - **Frontend:**
   - **HTML**
-  - **CSS** (for utility-first CSS styling)
+  - **CSS** (for utility-first styling)
   - **JavaScript (ES6+)** (for dynamic, interactive elements)
 
 - **Hosting & Deployment:**
