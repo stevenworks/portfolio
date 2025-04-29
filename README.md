@@ -17,4 +17,4 @@ If you choose to use the design with minimal changes, I'd appreciate a mention o
 **Note:** My projects are personal and actively featured in this portfolio. I do not allow others to claim them as their own work.
 
 ### 🔗 Live Portfolio
-👉 [yourname.netlify.app](https://yourname.netlify.app)
+👉 [stevenworks.netlify.app](https://stevenworks.netlify.app)
